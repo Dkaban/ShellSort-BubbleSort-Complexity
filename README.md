@@ -20,5 +20,8 @@ Note: Adjustable MAX_INTEGER value (most tests were run using 100 as value)
 - Amount of swaps and comparisons made by each algorithm and displaying the updated Arrays as they're sorted.
 
 #### Output Example:
-
+it's
+a
+test
+here
 
