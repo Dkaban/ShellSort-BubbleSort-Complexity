@@ -1,5 +1,5 @@
 //*************************************************************************************
-//  AssignmentOne.java
+//  SortingDriver.java
 //
 //  AUTHOR: DUSTIN KABAN
 //  DATE: FEBRUARY 11th, 2021
@@ -12,7 +12,7 @@
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class AssignmentOne
+public class SortingDriver
 {
     //Used for displaying and running the correct sorting algorithm to the user.
     private enum SortType {ShellSort, BubbleSort, BubbleSort2}
