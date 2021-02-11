@@ -19,5 +19,5 @@ Note: Adjustable MAX_INTEGER value (most tests were run using 100 as value)
 - Time it takes to run the algorithm using System.nanoTime()
 - Amount of swaps and comparisons made by each algorithm and displaying the updated Arrays as they're sorted.
 
-#### Swap, Comparison, Execution Time Output Example:
+#### Swap, Comparison, and Execution Time Output Example:
 ![Main Menu](https://github.com/Dkaban/ShellSort-BubbleSort-Complexity/blob/main/Output.jpg?raw=true)
