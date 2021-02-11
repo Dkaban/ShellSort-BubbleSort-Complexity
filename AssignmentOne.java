@@ -2,9 +2,7 @@
 //  AssignmentOne.java
 //
 //  AUTHOR: DUSTIN KABAN
-//  STUDENT ID: T00663749
 //  DATE: FEBRUARY 11th, 2021
-//  COURSE: COMP2231
 //
 //  This class demonstrates the use of ShellSort, BubbleSort and a modified version of BubbleSort
 //  that exits the loop when a swap does not take place.  This displays the results to the user along with
