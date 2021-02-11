@@ -20,3 +20,4 @@ Note: Adjustable MAX_INTEGER value (most tests were run using 100 as value)
 - Amount of swaps and comparisons made by each algorithm and displaying the updated Arrays as they're sorted.
 
 #### Output Example:
+![Main Menu](https://github.com/Dkaban/ShellSort-BubbleSort-Complexity/blob/main/Output.jpg?raw=true)
